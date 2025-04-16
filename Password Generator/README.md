@@ -15,5 +15,5 @@ Sample Output : x$d24g*f9
 And every time you generate a password, the positions of the symbols, numbers, and letters are different. This will make the password more difficult for hackers to crack.
 The essential skill of a good programmer is using Google to find what you need. Your brain is for thinking, not memorising functions! You will need to Google to solve this project on the hard level. If you get stuck, check the hint below for what to Google.
 
-- [Easy Version](Password Generator/code_1.py)
-- [Hard Version](Password Generator/code_2.py)
+- [Easy Version](code_1.py)
+- [Hard Version](code_2.py)
