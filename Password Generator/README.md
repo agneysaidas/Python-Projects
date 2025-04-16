@@ -1,5 +1,5 @@
 # Password Genrator
-The objective is to take the inputs from the user to these questions and then generate a random password. Use your knowledge about Python lists and loops to complete the challenge.
+The objective is to take the inputs from the user to these questions and then generate a random password. 
 ## Easy Version (code_1.py)
 Generate the password in sequence. Letters, then symbols, then numbers. If the user wants
 4 letters 2 symbols and 3 numbers then the password might look like this:'\n'
